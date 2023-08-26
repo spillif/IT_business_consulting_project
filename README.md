@@ -1,1 +1,1 @@
-# It Business Consulting Project
+# IT Business Consulting Project
